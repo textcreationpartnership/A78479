@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine orders meete to be observed vpon any foraine invasion, for those shires that lye upon the sea coastes. With a direction to the justices of the peace.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78479</idno>
+            <idno type="STC">Wing C1717</idno>
+            <idno type="STC">Thomason E136_17</idno>
+            <idno type="EEBO-CITATION">99859344</idno>
+            <idno type="PROQUEST">99859344</idno>
+            <idno type="VID">156473</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78479)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156473)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E136[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine orders meete to be observed vpon any foraine invasion, for those shires that lye upon the sea coastes. With a direction to the justices of the peace.</title>
+               </titleStmt>
+               <extent>[2], 11, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.C. for Michael Sparke, Senior, and are to be sold at the signe of the blue Bible in Greene-Arbor,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Coast defenses --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156473:1" rendition="simple:additions"/>
+            <p>CERTAINE ORDERS MEETE TO BE OBSERVED VPON ANY FORAINE INVASION, For thoſe Shires that lye upon the Sea Coaſtes.</p>
+            <p>
+               <hi>With a Direction to the Juſtices of the Peace.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. C.</hi> for <hi>Michael Sparke, Senior,</hi> and are to be ſold at the ſigne to the blue Bible in Greene-Arbor. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156473:2"/>
+            <pb n="1" facs="tcp:156473:2"/>
+            <head>CERTAINE OR<g ref="char:EOLhyphen"/>DERS, MEETE TO BE Obſerved, upon any Foraine INVASION.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT in every Shire be appointed one Noble man, to take the chiefe charge for the ordering and gover<g ref="char:EOLhyphen"/>ning of the ſame, and he to appoint a Leader of the Horſemen, and one other of the Footemen. And under them Captaines and Officers of all ſorts, which Captaines may be of the better ſort inhabiting the Country, if their courage and skill be anſwerable for it.</p>
+            <p>The chiefe Leaders both of horſemen and footemen, muſt be men of that experience, diſcretion, temperancy, and judgement, aſwell in ordering and diſpoſing of great Numbers, as alſo in taking advantages of grounds, times, occaſions, and matters offered. And it were to be wiſhed they were ſuch in all points, as the whole Realme might be able to furniſh every frontyſhire but with two of that
+<pb n="2" facs="tcp:156473:3" rendition="simple:additions"/>conduct and valour, that there might be alſo a meeting and drawing together of ſome convenient numbers both of horſemen and footemen, to be trained and exerciſed into all manner of ſorts, and formes, aſwell frivolous as neceſ<g ref="char:EOLhyphen"/>ſary, to the intent to make them the more perfect how to give and receive a charge. For I thinke, if you ſhall aske the opinion but of three Captaines, how horſemen ought to charge, and how they ſhould receive a charge; and ſo like<g ref="char:EOLhyphen"/>wiſe of footemen, and of their retraites: your three Cap<g ref="char:EOLhyphen"/>taines will be of two opinions at the leaſt. And yet the firſt thing we offer unto the enemy, is raſhly to joyne battaile without any fore-ſight of the Inconvenience thereof. A thing ſo generally received of all our Nation, for the beſt way, as who ſhould ſeeme to impugne the ſame, is in dan<g ref="char:EOLhyphen"/>ger to be made ridiculous, and his reaſons to be holden for hereſie, and not fit to be heard, or read. And yet how rude, ignorant and untowardly we ſhould and would pre<g ref="char:EOLhyphen"/>ſent our ſelves thereunto; make but ſome modells of con<g ref="char:EOLhyphen"/>venient numbers aſſembled, and you ſhall ſee the ſame.</p>
+            <p>In private quarrell for trifling cauſes, every man deſireth to be exerciſed, and skillfull in that weapon wherewith he would encounter his enemy: But in this generall conflict wherein we fight for the ſafety of our Country, Religion, goods, wife, and children, we would hazard all in that or<g ref="char:EOLhyphen"/>der and forme wherein we are altogether ignorant and unexperimented.</p>
+            <p>But becauſe I have found it by experience and reaſon a very deſperate and dangerous kind of Triall, I would not wiſh any Prince to venter his kingdome that way, (unleſſe he be weary of the ſame) being the onely thing for an In<g ref="char:EOLhyphen"/>vadour to ſeeke, and a Defendor to ſhunne: for the one doth hazard but his people, and hath a I ot to winne a kingdome; the other in loſing of the battaile hath loſt his Crowne.</p>
+            <p>A Battaile is the laſt refuge, and not to be yeelded unto by the Defendant, untill ſuch time as he and his people be made deſperate.</p>
+            <pb n="3" facs="tcp:156473:3"/>
+            <p>In which kind of triall ſeldome or never ſhall you ſee the Invadour to quaile, no though his numbers have beene much leſſer then the other.</p>
+            <p>There is a kind of heate and fury in the incounter and joy<g ref="char:EOLhyphen"/>ning of Battailes; the which whoſe ſide can longeſt re<g ref="char:EOLhyphen"/>taine, on that part goeth victory; contrariwiſe which ſide conceiveth the firſt feare (whether it be upon juſt cauſe or not) that ſide goeth to wracke, yea and often times it falleth ſo out before the Pikes be couched.</p>
+            <p>Thus much to the incertainty of Battaile. Wherein al<g ref="char:EOLhyphen"/>beit I would wiſh our Nation to be wel exerciſed and tray<g ref="char:EOLhyphen"/>ned (being a thing of great moment:) Yet to be uſed in our owne Country, as the ſhoot anckor and laſt refuge of all.</p>
+            <div type="part">
+               <head>A Caveat for the avoyding of that dangerous courſe in running downe to the Sea-ſide, at the firing of the Beacons.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat there be in every Shire, places appointed whereunto the Country may reſort upon the firing of the beacons, which places of aſſembly would not be leſſe diſtant then ſive of ſix miles from the ſea ſide at the leaſt, for the footemen to gather themſelves together. To the intent you may the better ſort your men, put them in ſome order, and conſult what is meeteſt to be done; which you ſhall hardly be able to doe, if your place of aſſembly be within the view or neare unto the enemy, who will by all meanes ſeeke to at<g ref="char:EOLhyphen"/>tempt you in your diſorderly aſſemblies. Moreover, if ſeare once take your men, or that they be amazed; if you had as skilfull Leaders as the earth doth beare, they would not be able to diſpoſe or reduce them into ſuch order and forme
+<pb n="4" facs="tcp:156473:4" rendition="simple:additions"/>as they would; neither will the enemy give you time to de<g ref="char:EOLhyphen"/>liberate what is beſt to be don; but that you muſt either diſ<g ref="char:EOLhyphen"/>orderly fight, or more diſorderly run away. And above all things I eſpecially adviſe, to ſhunne that old and barbarous cuſtome of running confuſedly to the ſea ſide, thinking thereby to prevent the landing of the enemy, or at leaſt to annoy them greatly: which you ſhall never doe. For be it upon any Invaſion, you may be ſure that there is no Prince will undertake ſo great an enterpriſe, but he will be ſure to have ſuch a number of boates, &amp; gallyes, other ſmall veſſels of draught, as he will be able to land at one time 2 or 3 thouſand men; which boates ſhal be ſo wel appoynted with Baſes and other ſhot, as that they will be ſure to make way for their quiet landing. And for mine owne part I much doubt whether you ſhall have in two or three dayes (after the firing of the beacons) ſuch a ſufficient number as with wiſdome and diſcretion were fit to deale or venter a ſight with ſo many men as they will land in an hower, for any thing that ever I could yet ſee in the Countries readi<g ref="char:EOLhyphen"/>neſſe at the firing of the beacons.</p>
+               <p>If the enemy doth intend but to land, and burne ſome houſes or village neare to the Sea Coaſt, for the prevention thereof as much as may be, it were good to appoint onely thoſe that dwell within two or three miles of the Sea ſide to repaire thither to make reſiſtance, and for their ſuccour you may appoynt the horſemen to draw downe to the Planes next adjoyning to the ſame, who may alſo keepe them at a bay for ſtragling farre into the country.</p>
+               <p>But if the attempt be made by a Prince purpoſed and ap<g ref="char:EOLhyphen"/>poynted to invade, if you give them battaile at the firſt lan<g ref="char:EOLhyphen"/>ding, you offer them even the thing they moſt deſire: and it is a thouſand to one a Conqueſt the firſt day.</p>
+               <p>My Reaſons are theſe: Firſt you give battalle, but I pray with what people? Even with Country men altogether unexperimented in Martiall actions, whoſe Leaders are like to themſelves, and one other thing as dangerous as all this; You fight at home where your people know the next
+<pb n="5" facs="tcp:156473:4" rendition="simple:additions"/>way to ſave themſelves by flight, in recovering of Townes, Woods, and by wayes.</p>
+               <p>Contrariwiſe, with whom doe you incounter? but with a companie of pick't and trained ſouldiers, whoſe Leaders and Captaines are no doubt men both politicke and vali<g ref="char:EOLhyphen"/>ant, who are made ſo much the more deſperate and bold, by not leaving to themſelves any other hope to ſave their lives, but by marching over your bellies. And beſides, it is to be imagined that having ſpred ſome faction before a<g ref="char:EOLhyphen"/>mongſt your ſelves (as there is no Country free from ſedi<g ref="char:EOLhyphen"/>tious and treacherous male contents.) they are anima<g ref="char:EOLhyphen"/>ted to purſue the victory more ſharpely. Againe, if you once receive an overthrow, what feare and terrour you have brought your ſelves into, how hardly you ſhall bring a ſecond battaile, and how dangerous to fight with men diſmayed; thoſe that be of experience can judge. Like<g ref="char:EOLhyphen"/>wiſe what pride and jolity you have put your enemies in, to march forward, having no Forts nor fenced Townes, to give them any ſtoppe in this feare, or for your owne peo<g ref="char:EOLhyphen"/>ple to take breath, and make head againe: but that your enemies and factious companies of your owne Nation may joyn together, and be furniſhed of vittailes, Horſe and Carriage at their will and pleaſure; without the which no Prince can prevaile in any invaſion; for if you drive him to bring theſe things with him, (as if matters be well fore<g ref="char:EOLhyphen"/>ſeene and a good plot lay'd you may eaſily doe) a world of ſhipping will ſcarce ſuffice for the tranſportation there<g ref="char:EOLhyphen"/>of, beſides an infinite maſſe and charge, that muſt be pro<g ref="char:EOLhyphen"/>vided before-hand; yea and what waſt and loſſe thereof will fall out, though wind, weather, and ſhipping were had to paſſe without diſturbance, experience thereof re<g ref="char:EOLhyphen"/>maineth yet freſh in memory.</p>
+               <p>Againe, if ſcarcity of vittailes and unſavourineſſe there<g ref="char:EOLhyphen"/>of once grow, the peſtilence and other ſickeneſſe (which doth aſſaile the beſt vittailed and ordered Armie that ever was) will then be doubled and trebled, in ſuch ſort, as it will in ſhort time fight and get the victory for you.</p>
+               <pb n="6" facs="tcp:156473:5" rendition="simple:additions"/>
+               <p>And here by the way I would put you in remembrance that there be continuall lets and diſturbances by your Na<g ref="char:EOLhyphen"/>vy of the quiet paſſing of their vittailes which ſhould come unto them; whereof you ſhall often-times take advantage alſo by ſtormes and contrary winds.</p>
+               <p>Wherefore I hold it for the beſt and ſureſt way to ſuffer the enemy (comming to invade) to land quietly at his pleaſure; which he will otherwiſe doe whether you will or no. Onely fronting him in the Plaines with your horſe<g ref="char:EOLhyphen"/>men. And by all meanes and diligence to draw the vittailes, Cattell, Carriages, and Corne behind your backe; and that which you cannot, to waſt and ſpoyle, that the enemy take no advantage thereof; keeping ſuch Straights and paſſages with your footemen, as may be kept, and which with ſmall numbers of your horſe-men you may ſafely doe untill greater power doe come to backe you. And though they winne ſome Straight (which they cannot do without great loſſe:) yet by keeping of backe receipts in Straights, you ſhall alwayes (if you be ſo driven) retire without any great loſſe or danger. And alwayes remember to leave a Ward in every place meete to be guarded, though it be but of twenty or thirty perſons: which will be an occaſion for the enemy to ſtop the winning of them before they can paſſe: becauſe elſe thoſe few numbers will always annoy their vittailes and munition that dayly and howerly muſt have free and quiet paſſage to them. Now if they tarry the winning or yeelding of them up, (though it be but a day or two kept) you get thereby time to your ſelves to gnow ſtronger, and your enemy loſeth opportunity, and waxeth weaker.</p>
+               <p>For we ſee and finde by experience, that huge armies ly<g ref="char:EOLhyphen"/>ing in the fields, but 15 or 16 weekes, are brought to that weakneſſe, and their firſt courage ſo abated by <hi>ſickeneſſe</hi> and <hi>peſtilence</hi> (which are hand-maids unto ſuch great aſſemblies, eſpecially where any want of thoſe things are that belong to the ſuſtentation of mans body) that they may with ſmaller numbers and leſſe danger be dealt withall then at the firſt landing. Moreover, your people ſhall in that time
+<pb n="7" facs="tcp:156473:5"/>attaine to ſome knowledge by daily exerciſe and uſe of their weapons, and the terror of ſhot will be more famili<g ref="char:EOLhyphen"/>ar unto unto them. For it is not numbers that doth pre<g ref="char:EOLhyphen"/>vaile, but trained men, Reſolute minds, and good order. For if a Prince would onely ſelect and chooſe out ſuch men to weare Armour, and imploy the reſt (I meane the baſer ſort) to the ſpade and ſhovell, there is no doubt but he ſhall ſooner attaine unto victory by this meanes, then with rude multitudes, in whom there is nothing but confuſion and diſorder.</p>
+               <p>Againe, the ſpade and the ſhovell are ſo neceſſary Inſtru<g ref="char:EOLhyphen"/>ments in time of warre, both to the Invadour and Defen<g ref="char:EOLhyphen"/>der, as nothing is ſo impoſſible, that thereby may not be atchieved, and made eaſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e: And without the imployment whereof, we cannot preſume at any time of ſafety. I could diſcourſe at large hereof, in ſhewing the uſe and benefit of them: but becauſe to every man of judgement and experi<g ref="char:EOLhyphen"/>ence, it is ſufficiently knowne, I ſhall not need to ſpeake much therein; but wiſh you to embrace them, being to a Defender ſo eſpeciall and ſingular a commodity, in that he may better be furniſhed with infinite numbers of them.</p>
+               <p>And moreover, if you ſhall appoint them to weapons, who are apter to labour then to fight: you ſhall find dou<g ref="char:EOLhyphen"/>ble inconveniencies thereby, in miſplacing them contrary to their naturall diſpoſition and uſe.</p>
+               <p>And touching mine owne opinion and judgement, I ſhould more ſtand in feare of a few pick't and choyſe Soul<g ref="char:EOLhyphen"/>diers, that were furniſhed with a ſufficient number of Pio<g ref="char:EOLhyphen"/>ners, then with the hugeneſſe of an Army of unſelect and diſ-furniſhed numbers.</p>
+               <p>Now to ſay ſomewhat by the way, touching your Ar<g ref="char:EOLhyphen"/>med Pikes, the onely body, ſtrength and bulwarke in the field. It is not a little to be lamented, to ſee no more ſtore in this Land. We have ſo wonderfully weakned our ſelves, as it is high time to looke to the reſtoring of them againe. And touching the uſe of ſhot, as it is a ſingular weapon, being put into the hands of the skilfull and exerciſed
+<pb n="8" facs="tcp:156473:6" rendition="simple:additions"/>Souldier (being the pillars and upholders of the Pikes, and without which he is no perfect body:) So no doubt, on the contrary part, committed to a cowards or an unskil<g ref="char:EOLhyphen"/>full mans handling, it is the privyeſt thiefe in the field. For he robbeth pay, conſumeth victuals, and ſlayeth his own fellowes, in diſcharging behinde their backes. And one thing even as ill as this, he continually waſteth powder, the moſt precious Jewell of a Prince.</p>
+               <p>Wherefore, I would wiſh Captaines, not onely to re<g ref="char:EOLhyphen"/>ject ſuch as are altogether unapt, but greatly to commend them that diſcharge but few ſhots, and beſtow them well. For it is more worthy of praiſe to diſcharge faire and lea<g ref="char:EOLhyphen"/>ſurely, then faſt and unadviſedly. The one taking ad<g ref="char:EOLhyphen"/>vantage by warineſſe and foreſight: whereas the other lo<g ref="char:EOLhyphen"/>ſeth all with raſhneſſe and haſte.</p>
+               <p>But to returne to the Pike againe. My ſelfe being in the Low Countries in the Campe, when thoſe great Ar<g ref="char:EOLhyphen"/>mies were laſt aſſembled, and peruſing in every ſeverall Re<g ref="char:EOLhyphen"/>giment, the ſorting and diviſion of weapons, aſwell as their Order and Diſcipline: There were two Nations (the <hi>French</hi> being one) that had not betwixt them both, an 100. Pikes. Whereof I much marvelling, and deſiring greatly to know the cauſe that had moved them to leave the Pike, which in my conceite, I alwayes judged the ſtrength of the field:) Hapning afterward into the com<g ref="char:EOLhyphen"/>pany of certaine <hi>French</hi> Captaines, (ſome of them anci<g ref="char:EOLhyphen"/>ent in yeares, and ſuch as were of the Religion) I de<g ref="char:EOLhyphen"/>manded the reaſon that had moved them to give over that defenſible weapon the Pike, and betaken them altogether to ſhot. Not for any diſliking or other cauſe, (ſaid they) but for that we have not ſuch perſonall bodies, as you <hi>Engliſh</hi> men have, to beare them; neither have we them at that commandment as you have: but are forced to hire other Nations to ſupply our inſufficiency, for of our ſelves we cannot ſay, we can make a compleate body. Moreo<g ref="char:EOLhyphen"/>ver they affirmed, that if in the time of <hi>Newhaven,</hi> we had let them have but 6000. of our armed Pikes, they would
+<pb n="9" facs="tcp:156473:6"/>have marched through all <hi>France.</hi> So highly eſteemed they of the Pike, who nevertheleſſe (in our Judgement) ſeeme to have given over the ſame, or to make ſmall account thereof.</p>
+               <p>Moreover, for the better and readyer ordering, and trai<g ref="char:EOLhyphen"/>ning of your men in every Shire. Thoſe that are appoin<g ref="char:EOLhyphen"/>ted to be Captaines, ſhould have under every of their ſeve<g ref="char:EOLhyphen"/>rall charges, onely one ſort of weapons, <hi>viz.</hi> one Cap<g ref="char:EOLhyphen"/>taine to have the charge of Pikes, another of Shot, &amp;c. And no mans Band to be leſſe then 200. men. By meanes where<g ref="char:EOLhyphen"/>of, your Sergeant Major (or ſuch, to whom you ſhall commit the order of your footemen) may, from time to time, readily know the numbers of every ſort of weapons, whereby he will at one inſtant range them into any or<g ref="char:EOLhyphen"/>der and forme of battaile, you will have them. And eve<g ref="char:EOLhyphen"/>ry Captaine and his Officers ſhall ſerve with their owne men: which is a matter of great contentment to both Captaine and Souldier. For otherwiſe, if he have charge of more ſorts of weapons, then muſt he either diſ-joyne himſelfe from his Officers in time of ſervice, or elſe he muſt commit his men under another mans direction: which breedeth oftentimes great diſliking and murmure.</p>
+            </div>
+            <div type="part">
+               <head>Orders for the proviſion, and guard of the Beacons.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irſt, that the Beacons he provided of good matter and ſtuffe, aſwell for the ſudden kind<g ref="char:EOLhyphen"/>ling of the fires, as alſo for the continuance thereof.</p>
+               <p>That the Beacons and watch-places, appointed to give warning unto the Country, of the Landing or Invaſion of the enemy, be ſubſtantially guarded with a ſufficient
+<pb n="10" facs="tcp:156473:7" rendition="simple:additions"/>company: whereof one principall perſon of good diſ<g ref="char:EOLhyphen"/>cretion to have the chiefe charge at all times, of every Beacon.</p>
+               <p>That the Beacons that are next to the Sea ſide, and are appointed to give the firſt warning, may be very ſufficient<g ref="char:EOLhyphen"/>ly guarded, aſwell with Horſemen as Footemen; where<g ref="char:EOLhyphen"/>of ſome diſcreet Souldier, or man of judgement, to have the chiefe charge, (as hath beene ſaid before) who muſt be very reſpective and carefull, that he give not any Alarum upon light matter or occaſion: Nothing being more dan<g ref="char:EOLhyphen"/>gerous then falſe Alarummes to breed a contempt, and ſe<g ref="char:EOLhyphen"/>curity.</p>
+               <p>Your Horſemen muſt be ready to give warning to the other Beacons in the Country, leſt by weather they may be prevented, that they cannot kindle fire, or elſe the e<g ref="char:EOLhyphen"/>nemy may hinder them by ſudden aſſault, and ſo either let the kindling of them, or extinguiſh the fire newly kindled, before the other Beacons can take knowledge thereof. For it is alwayes to be feared, that the enemy will ſeeke by all meanes and policy, not onely to ſurpriſe the Beacons, that are next the Sea ſide, and ſhould give firſt intelligence unto the Country: but alſo ſuch as are appointed to guard them, if their watchfulneſſe prevent them not.</p>
+            </div>
+            <div type="part">
+               <head>Other neceſſary notes to be obſerved.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>Hat there may be order taken to have a ſtore of Powder, Match, Bullets ready caſt, Mouldes of divers bores, charges, bow-ſtrings, ſhooting<g ref="char:EOLhyphen"/>gloves, warbraſſes, and ſuch other neceſſaries fit to be uſed at that time: Whereof (I doubt me) whether the whole Shire be able to furniſh the tenth part would be required. Whereof it were good to be provided afore-hand, and brought in Carts to thoſe places of Aſſembly:
+<pb n="11" facs="tcp:156473:7"/>whereby men may be readily furniſhed for their money, and the ſervice nothing hindred in time of need.</p>
+               <p>That it be looked unto, by ſuch as have charg to take the view of men and their weapons, that every ſhot be provided of a Mould, a priming Pinne, a Ferries, a Flint, and match-Powder, which things be as needfull to be ſeene into, as the Piece it ſelfe, although few provide and make reckon<g ref="char:EOLhyphen"/>ing thereof.</p>
+               <p>That in the ſaid Muſters and Aſſemblies there be good numbers of labourers appointed, who may alſo be aſſigned to have a Spade, a Mattocke, a Shovell, an Axe or a Bill. And theſe Pioners, to reſort to the places of Aſſembly, at every Alarum. Over whom, would be a skilfull Ingenier appointed to have the chiefe charge and government.</p>
+               <p>And whereas you have great numbers of Hacknies or Hoblers, I would wiſh that upon them you mount as ma<g ref="char:EOLhyphen"/>ny of the higheſt and nimbleſt ſhot you can, which may be ſent downe to the Sea ſide upon every Alarum, or to ſuch Straights and places of advantage, as to a diſcreet Leader ſhall ſeeme convenient. The which Arguletiers ſhall ſtand you in as great ſtead, as horſe of better account.</p>
+               <p>For by the meanes of them, men will take great courage to offer a proud attempt upon the enemy, being aſſured to their ſuccor, if any occaſion or appearance of danger force them to retire.</p>
+               <p>It were conſiderable that all the Youth of the Land were well prepared with Bow and Arrowes. For in wooddy places, or behinde bankes, or in other places theſe might annoy the Horſe and Men: Witneſſe the brave Battles at<g ref="char:EOLhyphen"/>chieved in <hi>France</hi> by Bowmen, and theſe Armes would ſup<g ref="char:EOLhyphen"/>ply many thouſands, which are not able to get better.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
